@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<p>O projeto Clident Odontologia é um site online desenvolvido para a clínica local como freelancer. utilizando HTML5, CSS3 e JavaScript. Ele proporciona uma experiência completa e interativa. Com um design moderno e funcionalidades inovadoras, o site é adaptável para todos os dispositivos.</p>
+<p>O projeto Clident Odontologia é um site online desenvolvido para a clínica local como freelancer, utilizando HTML5, CSS3 e JavaScript. Ele proporciona uma experiência completa e interativa. Com um design moderno e funcionalidades inovadoras, o site é adaptável para todos os dispositivos.</p>
 
 <a href="https://clidentodontologia.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
