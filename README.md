@@ -28,5 +28,4 @@ Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem pe
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
-
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a>

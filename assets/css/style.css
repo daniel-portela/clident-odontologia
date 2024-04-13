@@ -17,7 +17,11 @@
   --black: hsl(0, 0%, 0%);
   --jet: hsl(0, 0%, 20%);
 
-  --gradient: linear-gradient(90deg, var(--carolina-blue) 0%, var(--royal-blue-light) 100%);
+  --gradient: linear-gradient(
+    90deg,
+    var(--carolina-blue) 0%,
+    var(--royal-blue-light) 100%
+  );
 
   --ff-roboto: "Roboto", sans-serif;
   --ff-poppins: "Poppins", sans-serif;
@@ -48,7 +52,6 @@
 
   --transition: 0.25s ease;
   --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
-
 }
 
 *,
@@ -159,7 +162,11 @@ body {
 }
 
 .btn {
-  background-image: linear-gradient(var(--deg, 90deg), var(--carolina-blue) 0%, var(--royal-blue-light) 100%);
+  background-image: linear-gradient(
+    var(--deg, 90deg),
+    var(--carolina-blue) 0%,
+    var(--royal-blue-light) 100%
+  );
   color: var(--white);
   font-size: var(--fs-7);
   text-transform: uppercase;
@@ -229,7 +236,7 @@ body {
   }
 }
 
-.header-bottom>.container {
+.header-bottom > .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -280,7 +287,7 @@ body {
   transition-duration: 0.5s;
 }
 
-.navbar-list>li:not(:last-child) {
+.navbar-list > li:not(:last-child) {
   border-block-end: 1px solid var(--gainsboro_50);
 }
 
@@ -705,11 +712,9 @@ body {
   opacity: 1;
 }
 
-
 @media (min-width: 575px) {
   :root {
     --fs-1: 4.2rem;
-
   }
 
   .container {
@@ -725,13 +730,11 @@ body {
   .footer-top .container {
     grid-template-columns: 1fr 1fr;
   }
-
 }
 
 @media (min-width: 768px) {
   :root {
     --fs-2: 4.8rem;
-
   }
 
   body {
@@ -832,7 +835,6 @@ body {
     bottom: 70px;
     right: 50px;
   }
-
 }
 
 @media (min-width: 992px) {
@@ -840,7 +842,6 @@ body {
     --fs-2: 6rem;
     --fs-1: 4.6rem;
     --fs-3: 4.6rem;
-
   }
 
   .container {
@@ -919,7 +920,7 @@ body {
     align-items: center;
   }
 
-  .navbar-list>li:not(:last-child) {
+  .navbar-list > li:not(:last-child) {
     border-block-end: none;
   }
 
@@ -976,7 +977,6 @@ body {
   .footer-top .container {
     grid-template-columns: 1fr 0.5fr 0.6fr 0.75fr;
   }
-
 }
 
 @media (min-width: 1200px) {
@@ -984,7 +984,6 @@ body {
     --fs-2: 8rem;
     --fs-1: 5.5rem;
     --fs-3: 4.8rem;
-
   }
 
   .container {
@@ -999,7 +998,7 @@ body {
     padding: 18px 30px;
   }
 
-  .header-bottom>.container {
+  .header-bottom > .container {
     gap: 40px;
   }
 
@@ -1032,5 +1031,4 @@ body {
   .cta-banner {
     margin-block-start: -120px;
   }
-
 }
