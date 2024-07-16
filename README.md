@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;<hr>
 
-🛠️ <b>Recursos funcionalidades:</b>
+🛠️ <b>Recursos e funcionalidades:</b>
 
 - Informações detalhadas sobre serviços odontológicos oferecidos.
 - Agendamento online para maior conveniência dos pacientes.
